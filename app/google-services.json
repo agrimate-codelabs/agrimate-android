@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "770228925083",
+    "firebase_url": "https://agrimate-cl-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "agrimate-cl",
+    "storage_bucket": "agrimate-cl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770228925083:android:e2e822312b8be45bd54c3e",
+        "android_client_info": {
+          "package_name": "com.codelabs.agrimate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLtKjOpNJ8l2HD5k8EhKQSroJBEddpT9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
